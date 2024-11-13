@@ -47,9 +47,3 @@
 <p align="left">💼 LinkedIn: www.linkedin.com/in/eduardo-menin<br>📧 Email: eduardomenin2020@gmail.com</p>
 
 ###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Edmenin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
-</div>
-
-###
