@@ -47,3 +47,9 @@
 <p align="left">💼 LinkedIn: www.linkedin.com/in/eduardo-menin<br>📧 Email: eduardomenin2020@gmail.com</p>
 
 ###
+
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/ae/c3/70/aec3708aa26fd079ee156c1826f8cf4d.gif"  />
+</div>
+
+###
