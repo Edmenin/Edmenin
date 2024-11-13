@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde 2023...<br>📚 Cursando Análise e Desenvolvimento de Sistemas pela Unidep<br>🎯 Meus objetivos são evoluir profissionalmente e obter bastante conhecimento<br>🎲 Fun fact: pilotar motos é minha paixão</p>
+<p align="left">✨ Criando bugs desde 2023...<br>📚 Cursando Análise e Desenvolvimento de Sistemas pela Unidep<br>🎯 Meus objetivos são evoluir profissionalmente e obter conhecimento<br>🎲 Fun fact: pilotar motos é minha paixão</p>
 
 ###
 
