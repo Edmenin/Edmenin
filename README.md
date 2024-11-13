@@ -57,8 +57,3 @@
 <div align="right">
   <img height="200" src="https://giffiles.alphacoders.com/216/216077.gif"  />
 </div>
-
-###
-<img src="https://raw.githubusercontent.com/Edmenin/Edmenin/output/snake.svg" alt="Snake animation" />
-
-###
