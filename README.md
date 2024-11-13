@@ -48,7 +48,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img height="200" src="https://i.pinimg.com/originals/ae/c3/70/aec3708aa26fd079ee156c1826f8cf4d.gif"  />
 </div>
 
