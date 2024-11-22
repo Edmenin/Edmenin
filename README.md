@@ -44,7 +44,7 @@
 
 ###
 
-<p align="left">💼 LinkedIn: www.linkedin.com/in/eduardo-menin<br>📧 Email: eduardomenin2020@gmail.com</p>
+<p align="left">💼 LinkedIn: www.linkedin.com/in/eduardo-menin<br>📧 Email: eduardomenin2020@gmail.com<br>Website: </p>
 
 ###
 
