@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde 2023...<br>📚 Cursando Análise e Desenvolvimento de Sistemas pela Unidep<br>🎯 Meus objetivos são evoluir profissionalmente e obter conhecimento<br>🎲 Fun fact: Hiperfoco em motos e Batman</p>
+<p align="left">✨ Desenvolvendo desde 2023...<br>📚 Cursando Análise e Desenvolvimento de Sistemas pela Unidep<br>🎯 Meus objetivos são evoluir profissionalmente e obter conhecimento</p>
 
 ###
 
