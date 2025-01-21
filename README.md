@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Eduardo, sou desenvolvedor front-end e designer na Secretaria de Ciência, Tecnologia e Inovação de Pato Branco - PR</p>
+<p align="left">Meu nome é Eduardo, sou desenvolvedor na CashLocal, em Pato Branco - PR</p>
 
 ###
 
