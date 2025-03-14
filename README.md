@@ -33,7 +33,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg)" height="40" alt="git logo"  />
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" height="40" alt="git logo"  />
 </div>
 
 ###
