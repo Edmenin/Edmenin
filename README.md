@@ -34,6 +34,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" height="40" alt="python logo"  />
 </div>
 
 ###
