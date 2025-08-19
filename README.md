@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Desenvolvendo desde 2023...<br>📚 Cursando Análise e Desenvolvimento de Sistemas pela Unidep - 3º período<br>🎯 Sempre viso evoluir profissionalmente e estar atualizado diante novas tecnologias</p>
+<p align="left">✨ Desenvolvendo desde 2023...<br>📚 Cursando Análise e Desenvolvimento de Sistemas pela Unidep - 4º período<br>🎯 Sempre viso evoluir profissionalmente e estar atualizado diante novas tecnologias</p>
 
 ###
 
