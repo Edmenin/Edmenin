@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Eduardo, sou desenvolvedor na CashLocal, em Pato Branco - PR</p>
+<p align="left">Meu nome é Eduardo, sou desenvolvedor e sócio da CashLocal, em Pato Branco - PR</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Desenvolvendo desde 2023...<br>📚 Cursando Análise e Desenvolvimento de Sistemas pela Unidep - 4º período<br>🎯 Sempre viso evoluir profissionalmente e estar atualizado diante novas tecnologias</p>
+<p align="left">✨ Desenvolvendo desde 2023...<br>📚 Cursando Análise e Desenvolvimento de Sistemas pela Unidep - 5º período<br>🎯 Sempre viso evoluir profissionalmente e estar atualizado diante novas tecnologias</p>
 
 ###
 
