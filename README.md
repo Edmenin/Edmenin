@@ -36,7 +36,9 @@
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" height="40" alt="python logo"  />
+  <img width="12" />
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/n8n-color.png" height="40" alt="n8n logo"  />
+  <img width="12" />
 </div>
 
 ###
